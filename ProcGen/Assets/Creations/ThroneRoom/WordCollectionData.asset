@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5de45fab67277aa4fa4711aaf3a38568, type: 3}
+  m_Name: WordCollectionData
+  m_EditorClassIdentifier: 
+  throneRoomNameWords:
+  - Burnt
+  - Obsidian
+  - Wicked
+  - Glowing
+  - Mighty
+  - Sinister
+  - Mighty
+  - Eternal
+  - Wild
+  - Crushing
+  - Soul
+  - Dirt
+  - Earth
+  - Crimson
+  - Exalted
+  - Dark
+  - Rough
+  - Lunar
+  - Royal
+  - High
+  - Rose
+  - Rune
+  - Summer
+  - Autumn
+  - Winter
+  - Spring
+  - Leaf
+  - Water
+  - Fire
+  - Air
+  - Life
+  - Death
+  throneRoomTypeWords:
+  - Hall
+  - Throne
+  - Throne Room
+  - Palace
+  - Castle
+  - Chateau
+  - Estate
+  - Manor
+  - Manor House
+  - Manse
+  - Villa
+  - Hacienda
+  - Hearth
+  - House
+  - Alcazar
+  - Keep
+  - Hold
+  - Fort
+  - Stronghold
+  - Citadel
+  - Fortress
